@@ -7,7 +7,7 @@ package concurrencia_java;
 
 /**
  *
- * @author Jose David
+ * @author Adriana Buelvas
  */
 public class Cliente {
     

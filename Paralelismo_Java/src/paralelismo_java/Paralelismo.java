@@ -5,10 +5,6 @@
  */
 package paralelismo_java;
 
-/**
- *
- * @author Jose David
- */
 public class Paralelismo implements Runnable{
      private static int[] v;
      private int p, q,n;

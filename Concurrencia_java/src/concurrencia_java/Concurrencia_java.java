@@ -5,10 +5,6 @@
  */
 package concurrencia_java;
 
-/**
- *
- * @author Jose David
- */
 public class Concurrencia_java {
 
     /**

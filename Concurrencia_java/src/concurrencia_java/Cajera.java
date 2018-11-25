@@ -6,10 +6,6 @@ package concurrencia_java;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Jose David
- */
 public class Cajera {
     private String nombre;
 
